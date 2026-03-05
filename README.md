@@ -24,20 +24,20 @@ Case Study: Reduced AWS bill by 38%, increased uptime from
 Monthly DevOps Partnership Plans available — ongoing optimization, 
 cost audits, incident response & scaling strategy.
 
-<a href="https://www.credly.com/badges/d56049d5-9051-4772-8184-06f935650652/public_url">
+<a href="https://www.credly.com/badges/7f393304-8fba-458e-9290-6f88d249558e/public_url">
 <img src="https://raw.githubusercontent.com/robzwolf/cloud-cert-logos/main/2022/AWS-Cloud-Practitioner.png" width=15% height=15%>
 </a>
 
-<a href="https://www.credly.com/badges/7e08beca-959d-47e0-92e3-c622dc6a7dab/public_url">
+<a href="https://www.credly.com/badges/75a26851-62a3-48a0-81b9-1689e4489250/public_url">
 <img src="https://raw.githubusercontent.com/robzwolf/cloud-cert-logos/main/2022/AWS-Solutions-Architect-Associate.png" width=15% height=15%>
 </a>
 
-<a href="https://www.credly.com/badges/9bc8ae64-0e6b-4bbb-b7ae-42f242d32bbd/public_url">
+<a href="https://www.credly.com/badges/75a26851-62a3-48a0-81b9-1689e4489250/public_url">
 <img src="https://raw.githubusercontent.com/robzwolf/cloud-cert-logos/main/2022/AWS-Solutions-Architect-Professional.png" width=15% height=15%>
 </a>
 
-<a href="https://www.credly.com/badges/fefef05f-d89a-460a-9c64-c188e7299f70/public_url">
-<img src="https://raw.githubusercontent.com/robzwolf/cloud-cert-logos/main/2022/AWS-Machine-Learning-Specialty.png" width=15% height=15%>
+<a href="https://www.credly.com/badges/ee2be15b-d3f5-4990-8aa9-ad89ab151b19/public_url">
+<img src="https://github.com/robzwolf/cloud-cert-logos/blob/main/2022/AWS-Developer-Associate.png" width=15% height=15%>
 </a>
 
 # Projects
